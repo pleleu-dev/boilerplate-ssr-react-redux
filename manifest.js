@@ -1,0 +1,1 @@
+export default {data : [{"name":"chunk/Pokemon","path":"chunk/Pokemon.f611b8f4220eee3ecc05.bundle.js"},{"name":"main","path":"main.2a6a23eadc4b6e14f2ea.js"},{"name":"vendor","path":"vendor.1b3737714479a24c6178.bundle.js"}]}
