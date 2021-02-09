@@ -1,1 +1,1 @@
-export default {data : [{"name":"chunk/Pokemon","path":"chunk/Pokemon.f611b8f4220eee3ecc05.bundle.js"},{"name":"main","path":"main.2a6a23eadc4b6e14f2ea.js"},{"name":"vendor","path":"vendor.1b3737714479a24c6178.bundle.js"}]}
+export default {data : [{"name":"chunk/Pokemon","path":"chunk/Pokemon.cecb73d39b390fcb242f.bundle.js"},{"name":"main","path":"main.7f5af894198dc7417a6a.js"},{"name":"vendor","path":"vendor.1cdafa9d0aa0f813e144.bundle.js"}]}
